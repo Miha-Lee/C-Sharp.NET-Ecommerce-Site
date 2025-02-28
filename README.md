@@ -1,4 +1,4 @@
 <pre>
-Ecommerce Site project, developed using React JS and C#.NET. Below, 
-you will find the setup guides to assist you in getting started with this project.
+Ecommerce site is developed using React.js and C#.NET, with Stripe integrated as the payment gateway. 
+Below, you will find the setup guides for this project.
 </pre>
