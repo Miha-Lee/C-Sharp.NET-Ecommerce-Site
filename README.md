@@ -2,6 +2,8 @@
 Ecommerce site is developed using React.js and C#.NET, with Stripe integrated as the payment gateway. 
 Below, you will find the setup guides for this project.
 
+Side Note: The C#.NET version is using version 8.
+   
 Frontend Setup:
 1. Create the ".env" file in the root folder of the frontend. Then copy the values in the ".env.example".
 2. Replace the value of the "VITE_API_URL" with the backend url, 
