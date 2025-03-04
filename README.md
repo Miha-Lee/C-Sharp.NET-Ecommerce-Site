@@ -37,5 +37,5 @@ Because the project was created with the Azure Data Studio, to create a new serv
 should be localhost. Authentication type should be Windows Authentication. After you finished this part, right click the server you 
 just created, and select new query, copy and paste the sql syntax from the Database folder.
 
-After finishing all of these backend setup steps, we could run "dotnet restore" and "dotnet watch run" or "dotnet run".
+After finishing all of these backend setup steps, we could run "dotnet restore", "dotnet build" and "dotnet watch run" or "dotnet run".
 </pre>
